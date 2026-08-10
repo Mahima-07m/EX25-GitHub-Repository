@@ -18,3 +18,9 @@ This repository was created as part of the Git and GitHub laboratory exercise. I
 
 \- GitHub
 
+
+
+\#NEW UPDATE
+
+Updated README for LAB EX27.
+
