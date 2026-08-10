@@ -24,3 +24,5 @@ This repository was created as part of the Git and GitHub laboratory exercise. I
 
 Updated README for LAB EX27.
 
+\-#from git
+Collaborator update for LAB EX28.
